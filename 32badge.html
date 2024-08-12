@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Badge</title>
+</head>
+<body>
+  <h1> Last Step! </h1>
+	<p> Take a screenshot of this page with the verification code visible. If the questions are correct, the badge will be granted. Please provide your wiki account username in #support. Verification Code:<span id="random-string"></span></p>
+
+	<script>
+		// Define the length of the random string
+		var stringLength = 10;
+
+		// Define the characters that can be used in the random string
+		var characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()';
+
+		// Generate a random string
+		var randomString = '';
+		for (var i = 0; i < stringLength; i++) {
+			randomString += characters.charAt(Math.floor(Math.random() * characters.length));
+		}
+
+		// Update the content of the HTML element with the random string
+		document.getElementById('random-string').innerHTML = randomString;
+	</script>
+</body>
+</html>

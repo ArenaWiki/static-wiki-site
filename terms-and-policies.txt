@@ -1,0 +1,60 @@
+This privacy statement & terms of use covers the website https://wiki.enews.link (Thereafter referred to as " The ArenaWiki Site ”). Please read this statement carefully before accessing our content. Your use of this website indicates your agreement to abide by the Terms in effect.
+
+As an independent website, The ArenaWiki Site is not an offical site of ArenaDev. Any complaints or feedback regarding services provided by them should be directed to the relevant official feedback channels.
+
+A: Terms and Conditions
+This agreement (the “Agreement”) is entered into by and between you and ArenaWiki regarding your use of the ArenaWiki website. By using the ArenaWiki website, you are entering into this Agreement with The ArenaWiki and indicating that you agree to be bound by these terms and conditions. If you do not agree with these terms and conditions, please do not use the Service.
+
+Description of Service. The ArenaWiki website (“Service”) is the a free service from E-News MEDIA  (the “Content Provider”) that offers articles about games published under ArenaDev . You understand and agree that the Service is provided on an AS IS and AS AVAILABLE basis. The Content Provider disclaims all responsibility and liability for the availability, timeliness, security or reliability of the Service. The Content Provider also reserves the right to modify, suspend or discontinue the Service with or without notice at any time and without any liability to you.
+
+Proper Use. You agree that you will use the Service in compliance with all applicable local, state, national, and international laws, rules and regulations. You shall not, shall not agree to, and shall not authorize or encourage any third party to: (a) use the service to harass other users; (b) prevent others from using the Service; (c) use the Service for any fraudulent or inappropriate purpose. Any violation of the above may result in immediate termination of this Agreement, and may subject you to legal consequences. The Company reserves the right, but shall have no obligation, to investigate your use of the Service in order to determine whether a violation of the Agreement has occurred or to comply with any applicable law, regulation, legal process or governmental request.
+
+Accuracy, Completeness and Timeliness of Information. We are not responsible if information made available on this site is not accurate, complete or current. The material on this site is provided for general information only and should not be relied upon or used as the sole basis for making decisions without consulting primary, more accurate, more complete or more timely sources of information. THE SERVICE IS PROVIDED “AS IS” WITH NO WARRANTY OF ANY KIND AND YOU USE THE SERVICE AT YOUR OWN RISK. This site may contain certain historical information. Historical information, necessarily, is not current and is provided for your reference only. We reserve the right to modify the contents of this site at any time, but we have no obligation to update any information on our site. You agree that it is your responsibility to monitor changes to our site.
+
+Damages. Under no circumstances shall we be liable you to for any indeirect, incidental, consequaantial, special, or exemplary damages arising out of or in the connection of use of any of our services. We are not liable redered pursuant to this agreement.
+
+Third-party Software. Third-party software used on The ArenaWiki Website is subject to the respective third-party licensor’s or supplier’s terms of use and policies. 
+
+Refusal of service; Termination; Suspension. The Content Provider reserves the right in its sole discretion to refuse, suspend, or terminate the Service to anyone at any time without notice for any reason.
+
+Privacy. As a condition to using the Service, you agree to the terms of the ArenaWiki Privacy Policy as stated in the next section, as it may be updated from time to time. We understand that privacy is important to you. You do, however, agree that the Company may monitor, edit or disclose your personal information, including the content of your emails, if required to do so in order to comply with any valid legal process or governmental request (such as a search warrant, subpoena, statute, or court order), or as otherwise provided in these Terms of Use and the ArenaWiki Privacy Policy.
+
+Indemnification. You agree to hold harmless and indemnify the Content Provider, and its employees, agents and representatives, from and against any third party claim arising from or in any way related to your use of the Service, including any liability or expense arising from all claims, losses, damages (actual and consequential), suits, judgments, litigation costs and attorneys’ fees, of every kind and nature.
+
+Liability. To the maximum extent permitted by applicable law, you hereby release, and waive all claims against ArenaWiki and its employees and agents from any and all liability for claims, damages (actual and consequential), costs and expenses (including litigation costs and attorneys’ fees) of every kind and nature, arising out of or in any way connected with use of the Service.
+
+Modifications to the Agreement. The Company shall have the right to modify the terms of this Agreement at any time. The new agreement shall be effective immediately.
+
+Exercise. The failure of the Company to exercise or enforce any right or provision of these terms and conditions shall not constitute a waiver of such right or provision.
+
+Choice of Law; Jurisdiction. This agreement, shall be interpreted in accordance with the laws of Malaysia, where this website is hosted at.
+Entire Agreement. This Agreement constitutes the entire agreement between ArenaWiki and you with respect to the subject matter hereof.
+
+B: Privacy Policy
+
+Data We Collect
+ 
+We use Google Analytics to collect non-sensitive data about your visit on our website. 
+Should you create or upload content while using our services, you consent to making such content public. This includes information you disclose in comments, media and photo metadata. All content shared undergo vetting by a moderator to be safe before publishing.
+In addition, we may have third party software, installed on the site, that collects personal and/or non personal information. 
+Subject to change without notice.
+ 
+Cookies
+ 
+A cookie is a piece of data stored on the user’s computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
+ 
+We may use cookies to store information about you or services you use.
+ 
+3rd party Cookies
+ 
+ArenaWiki may use third-party software for statistics on our website usage, advertising and for social media plugin functionality. A list of these and their relevant privacy policies are listed below:
+ 
+Notification of Changes 
+Whenever ArenaWiki changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+ 
+Contact Information 
+If you have any questions or suggestions regarding our privacy policy, please contact the editor of the ArenaWiki site in question on our discord server.
+ 
+Complaints
+ 
+If you would like to complain about anything on ArenaWiki, or any of our other assets, please email support@enews.link with the subject line ‘Complaint’.

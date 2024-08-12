@@ -1,0 +1,358 @@
+html {
+  width: 100%;
+  height: auto;
+  font-family: 'DM Sans', sans-serif;
+}
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background: #100125;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  background-repeat: no-repeat;
+  justify-content: center;
+  color: white;
+  align-items: center;
+  flex-direction: column;
+  margin: 0;
+  width: max;
+}
+
+.small {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 14px;
+  align-items: center;
+  margin: 2px;
+  font-weight:300;
+}
+.button {
+  transition-duration: 0.4s;
+  background-color: grey; 
+  border: none;
+  color: white;
+  padding: 9px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  border-radius: 50px;
+}
+
+gallerycover {
+  background-color: #20024b; 
+}
+
+.button:hover {
+  background-color: darkviolet;
+  color: white;
+}
+
+.site-footer {
+  position: relative;
+  bottom: 1;
+  width: 100%;
+  font-size: 13px;
+  background-image: linear-gradient(to bottom, #100125 0px, #100125 20px, transparent 20px), url("/images/footerbackground.png");
+  background-size: cover, cover;
+  height: 190px;
+  background-position: center, center;
+}
+
+.site-image {
+	transform: scale(1.05);
+	transition: all 0.75s;
+}
+.site-image:hover {
+	transform: scale(1.10);
+	filter: drop-shadow(0 0 8px #000);
+}
+#link:hover {
+	text-decoration: underline;
+	text-decoration-color: #EFFD5F;
+	-webkit-text-decoration-color:#ECCD5B  ;
+}
+a:link {
+  color: #EFFD5F;
+}
+
+/* visited link */
+a:visited {
+  color: skyblue;
+}
+
+/* mouse over link */
+a:hover {
+  color: #ECCD5B;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+a{
+  text-decoration:none;
+}
+
+p {
+   width: 80%;
+  margin: auto;
+   text-align: center;
+}
+
+.centerheadingbox {
+     width: 80%;
+  margin: auto;
+   text-align: center;
+}
+}
+
+.atd-mainpage-intro > img {
+ height:250%;
+ width:max;
+ margin: auto;
+ position: absolute;
+ top: -200px;
+ left: -200px;
+}
+
+@media only screen and (max-width: 1400px) {
+  .atd-mainpage-intro {
+    box-shadow:0 2px 24px 0 rgba(0,0,0,.08),0 0 2px 0 rgba(0,0,0,.08);
+    background-color: #100125;
+    background-image: url("/images/COVER ART2.png");
+    background-size:35%;
+    right:70px;
+    width: 95%;
+    background-repeat: no-repeat;
+    background-position: top right;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .atd-mainpage-intro {
+    box-shadow:6 2px 24px 6 #BEBEBE,0 0 2px 0 rgba(0,0,0,.08);
+    background-color: #100125;
+    background-image: url("/images/COVER ART2.png");
+    background-size:80%;
+    background-position: right 80px;
+    width: 90%;
+    background-repeat: no-repeat;
+  }
+}
+
+
+.atd-mainpage-intro-text {
+ padding:20px;
+ font-family:'Raleway',sans-serif;
+ background:linear-gradient(100deg,var(--vyw-headerbg-color) 35%,transparent);
+ height:100%;
+ font-weight: 600;
+ font-size:23px;
+ color: var(--vyw-regulartext-color);
+ line-height: 30px;
+ padding-right: 30%;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #6e6290;
+}
+
+::-webkit-scrollbar-track {
+	background: #1c0c1c;
+}
+::-webkit-scrollbar-thumb:hover {
+	background: #473f5d;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: #ccc;
+  margin: 20px 0;
+}
+
+.message-box {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  max-width: 500px;
+  margin: 20px auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.message-box img {
+  max-width: 100px;
+  height: auto;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.message-content {
+  flex-grow: 1;
+  font-weight: normal !important;
+  text-align: left;
+}
+
+
+.left {
+  text-align:left;
+}
+.right {
+  text-align:right;
+}
+
+.gallery {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.gallery-images {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.gallery-images img {
+  max-width: 100%;
+  max-height: 300px;
+  object-fit: contain;
+  margin: 0 10px;
+  display: none;
+}
+
+.gallery-images img:first-child {
+  display: block;
+}
+
+.gallery-buttons {
+  display: flex;
+}
+
+.gallery-buttons button {
+ transition-duration: 0.4s;
+  background-color: grey; 
+  border: none;
+  color: white;
+  padding: 9px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  border-radius: 50px;
+}
+
+.gallery-buttons button:hover {
+   background-color: darkviolet;
+  color: white;
+}
+
+.gallery-buttons button.active {
+  text-decoration: underline;
+  background-color: #6e6290 ;
+}
+
+ @keyframes typing {
+        from {
+          width: 0;
+        }
+        to {
+          width: 100%;
+        }
+      }
+
+      /* Add animation properties */
+      .typewriter {
+        display: inline-block;
+        overflow: hidden;
+        animation: typing 5s steps(30, end);
+      }
+
+/* Style the buttons that are used to open and close the accordion panel */
+.accordion {
+  background-color: #400497;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: transparent;
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: #48346e;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+.accordion:after {
+  content: '\02795'; /* Unicode character for "plus" sign (+) */
+  font-size: 13px;
+  color: #777;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+
+blockquote.twitter-tweet {
+  display: inline-block;
+  font-family: "DM Sans", sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 16px;
+  border-color: #eee #ddd #bbb;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+  margin: 10px 5px;
+  padding: 0 16px 16px 16px;
+  max-width: 468px;
+  color: transparent;
+}
+
+blockquote.twitter-tweet p {
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 20px;
+  color: transparent;
+}
+
+blockquote.twitter-tweet a {
+  color: transparent;
+  font-weight: normal;
+  text-decoration: none;
+  outline: 0 none;
+  
+}
+
+blockquote.twitter-tweet a:hover,
+blockquote.twitter-tweet a:focus {
+  text-decoration: underline;
+}
+
+.company-image {
+  float: right;
+  margin-right: 10px;
+}
